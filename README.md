@@ -1,0 +1,1 @@
+# ML-powered-Mechanical-Stress-prediction-of-Bio-Inspired-Surfaces
